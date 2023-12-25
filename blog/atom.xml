@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Quick Glance Blog</title>
+    <updated>2023-12-25T13:21:52.033Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Quick Glance Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[welcome]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <updated>2023-12-25T13:21:52.033Z</updated>
+    </entry>
+</feed>
